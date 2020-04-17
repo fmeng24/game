@@ -11,6 +11,7 @@ class Game:
         self.player_guess = ''
         self.exit_point = (0,0)
         self.grid = None
+        print('hello tomrrow')
 
     def ask_difficulty(self):
         #update the difficulty attribute based on input
